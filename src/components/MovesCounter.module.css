@@ -1,0 +1,12 @@
+.movesCounter {
+    display: block;
+    position: absolute;
+    top: 3.5rem;
+    left: 0.5rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: inherit;
+    text-decoration: none;
+  }
+  
